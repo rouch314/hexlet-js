@@ -1,0 +1,24 @@
+{
+  "name": "hexlet-hello-world",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "rouch314 first-node-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rouch314/hexlet-js.git"
+  },
+  "keywords": [
+    "rouch314",
+    "node-js"
+  ],
+  "author": "rouch314",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rouch314/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/rouch314/hexlet-js#readme"
+}
