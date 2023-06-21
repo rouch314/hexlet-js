@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@eslint/create-config": "github:eslint/create-config",
+    "eslint": "^8.43.0"
+  }
+}
