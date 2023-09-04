@@ -2,5 +2,9 @@
   "devDependencies": {
     "@eslint/create-config": "github:eslint/create-config",
     "eslint": "^8.43.0"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-modules --no-warnings ./tests/capitalize.test.js"
   }
 }
